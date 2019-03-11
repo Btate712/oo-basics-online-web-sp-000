@@ -17,6 +17,6 @@ class Book
 
   def turn_page
   end
-  
+
   attr_accessor :author, :page_count
 end

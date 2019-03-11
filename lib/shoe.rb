@@ -10,6 +10,6 @@ class Shoe
   def cobble
     puts "The shoe has been repaired."
   end
-  
+
   attr_accessor :color, :size, :material, :condition
 end
